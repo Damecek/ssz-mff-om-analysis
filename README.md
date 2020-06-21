@@ -1,0 +1,1 @@
+Vypracované otázky ke státnicím 2020 na MFF UK obor Obecná matematika zaměření Matematická analýza.
