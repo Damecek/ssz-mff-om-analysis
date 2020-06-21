@@ -1,0 +1,18 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[a4paper, total={160mm, 242mm}]{geometry}
+\usepackage{pdfpages}
+
+%% Vytváříme PDF/A-2u
+\usepackage[a-2u]{pdfx}
+
+%% Přepneme na českou sazbu a fonty Latin Modern
+\usepackage[czech]{babel}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+
+\begin{document}
+Tímto dik Pétě za zpracovaný první dva okruhy.
+\includepdf[pages=-]{1-2Okruhy/statniceOM12okruhy.pdf}
+\includepdf[pages=-]{3cOkruh/prace.pdf}
+\end{document}
