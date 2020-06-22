@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.20)  22 JUN 2020 10:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.20)  22 JUN 2020 11:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.tex
-(d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.tex
+**"d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.tex"
+(d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-06-18> (d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -483,14 +483,14 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 74.
 \@input{makra.aux}
 \openout2 = `makra.aux'.
 
-(d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/makra.tex
+(d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/makra.tex
 \c@veta=\count283
 \c@definice=\count284
 ) (d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-06-18 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count285
 \l__pdf_internal_box=\box51
-) (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.aux)
+) (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.aux)
 \openout1 = `prace.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
@@ -579,7 +579,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 79.
 LaTeX Info: Redefining \pageref on input line 79.
 LaTeX Info: Redefining \nameref on input line 79.
- (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.out) (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.out)
+ (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.out) (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.out)
 \@outlinefile=\write5
 \openout5 = `prace.out'.
 
@@ -772,7 +772,7 @@ Package pdftex.def Info: img/1lebInt/2020-06-20 18 00 36.png  used on input line
 
 
 
- <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 46 09.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 47 08.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 49 20.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 49 44.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 49 57.png (PNG copy)>] [2 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 50 33.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 51 15.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 51 30.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 51 40.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 51 46.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 52 02.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 52 51.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 52 57.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 53 08.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 53 15.png (PNG copy)>] [3 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 53 26.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 53 37.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 53 50.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 54 02.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 54 33.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 54 47.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 55 05.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 55 16.png (PNG copy)>] [4 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 55 56.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 56 17.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 57 03.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 57 10.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 57 40.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 57 50.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 57 59.png (PNG copy)>] [5 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 56 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 58 11.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 58 22.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 17 59 10.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 18 00 03.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 18 00 19.png (PNG copy)>]
+ <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 46 09.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 47 08.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 49 20.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 49 44.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 49 57.png (PNG copy)>] [2 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 50 33.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 51 15.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 51 30.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 51 40.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 51 46.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 52 02.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 52 51.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 52 57.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 53 08.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 53 15.png (PNG copy)>] [3 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 53 26.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 53 37.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 53 50.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 54 02.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 54 33.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 54 47.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 55 05.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 55 16.png (PNG copy)>] [4 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 55 56.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 56 17.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 57 03.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 57 10.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 57 40.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 57 50.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 57 59.png (PNG copy)>] [5 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 56 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 58 11.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 58 22.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 17 59 10.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 18 00 03.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 18 00 19.png (PNG copy)>]
 <img/2banHilb/2020-06-20 17 15 17.png, id=90, 1672.2475pt x 323.2075pt>
 File: img/2banHilb/2020-06-20 17 15 17.png Graphic file (type png)
 <use img/2banHilb/2020-06-20 17 15 17.png>
@@ -903,7 +903,7 @@ File: img/2banHilb/2020-06-20 17 30 49.png Graphic file (type png)
 <use img/2banHilb/2020-06-20 17 30 49.png>
 Package pdftex.def Info: img/2banHilb/2020-06-20 17 30 49.png  used on input line 156.
 (pdftex.def)             Requested size: 455.24408pt x 22.53645pt.
- [6 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/1lebInt/2020-06-20 18 00 36.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 15 17.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 15 31.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 15 40.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-21 16 37 42.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-21 16 38 27.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 15 47.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 16 15.png (PNG copy)>] [7 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 16 21.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 18 30.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 18 49.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-21 16 39 55.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 20 16.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 21 41.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 19 06.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 19 36.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 19 12.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 20 29.png (PNG copy)>]
+ [6 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/1lebInt/2020-06-20 18 00 36.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 15 17.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 15 31.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 15 40.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-21 16 37 42.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-21 16 38 27.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 15 47.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 16 15.png (PNG copy)>] [7 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 16 21.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 18 30.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 18 49.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-21 16 39 55.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 20 16.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 21 41.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 19 06.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 19 36.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 19 12.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 20 29.png (PNG copy)>]
 <img/3hilp/2020-06-21 13 01 41.png, id=125, 1595.9625pt x 163.61125pt>
 File: img/3hilp/2020-06-21 13 01 41.png Graphic file (type png)
 <use img/3hilp/2020-06-21 13 01 41.png>
@@ -979,7 +979,7 @@ File: img/3hilp/2020-06-21 13 02 35.png Graphic file (type png)
 <use img/3hilp/2020-06-21 13 02 35.png>
 Package pdftex.def Info: img/3hilp/2020-06-21 13 02 35.png  used on input line 175.
 (pdftex.def)             Requested size: 455.24408pt x 24.26416pt.
- [8 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 20 42.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 21 19.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 22 08.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 29 56.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 30 11.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 30 19.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 30 34.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-21 17 27 05.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/2banHilb/2020-06-20 17 30 49.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/2020-06-21 13 01 41.png (PNG copy)>] [9 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/2020-06-21 17 33 02.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/2020-06-21 13 02 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/2020-06-21 13 02 55.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/2020-06-21 13 04 44.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/Image 009.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/Image 010.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/Image 011.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/Image 012.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/2020-06-21 13 06 53.png (PNG copy)>]
+ [8 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 20 42.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 21 19.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 22 08.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 29 56.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 30 11.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 30 19.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 30 34.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-21 17 27 05.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/2banHilb/2020-06-20 17 30 49.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/2020-06-21 13 01 41.png (PNG copy)>] [9 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/2020-06-21 17 33 02.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/2020-06-21 13 02 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/2020-06-21 13 02 55.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/2020-06-21 13 04 44.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/Image 009.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/Image 010.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/Image 011.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/Image 012.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/2020-06-21 13 06 53.png (PNG copy)>]
 <img/4four/2020-06-21 11 43 15.png, id=148, 1339.25343pt x 79.79813pt>
 File: img/4four/2020-06-21 11 43 15.png Graphic file (type png)
 <use img/4four/2020-06-21 11 43 15.png>
@@ -1055,7 +1055,7 @@ File: img/4four/2020-06-21 13 21 23.png Graphic file (type png)
 <use img/4four/2020-06-21 13 21 23.png>
 Package pdftex.def Info: img/4four/2020-06-21 13 21 23.png  used on input line 194.
 (pdftex.def)             Requested size: 455.24408pt x 48.06796pt.
- [10 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/Image 013.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/Image 014.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/Image 015.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/2020-06-21 13 02 26.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/2020-06-21 13 02 35.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 43 15.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 43 21.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 43 32.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 43 53.png (PNG copy)>] [11 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 44 04.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 50 25.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 44 17.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 46 20.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 46 38.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 47 24.png (PNG copy)>]
+ [10 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/Image 013.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/Image 014.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/Image 015.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/2020-06-21 13 02 26.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/3hilp/2020-06-21 13 02 35.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 43 15.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 43 21.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 43 32.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 43 53.png (PNG copy)>] [11 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 44 04.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 50 25.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 44 17.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 46 20.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 46 38.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 47 24.png (PNG copy)>]
 <img/5komp/2020-06-21 09 52 00.png, id=171, 1528.71124pt x 384.43625pt>
 File: img/5komp/2020-06-21 09 52 00.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 52 00.png>
@@ -1076,11 +1076,11 @@ File: img/5komp/2020-06-21 09 52 29.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 52 29.png>
 Package pdftex.def Info: img/5komp/2020-06-21 09 52 29.png  used on input line 202.
 (pdftex.def)             Requested size: 455.24408pt x 64.18666pt.
-<img/5komp/2020-06-21 09 53 40.png, id=175, 1465.475pt x 524.96124pt>
+<img/5komp/2020-06-21 09 53 40.png, id=175, 1099.10625pt x 246.1697pt>
 File: img/5komp/2020-06-21 09 53 40.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 53 40.png>
 Package pdftex.def Info: img/5komp/2020-06-21 09 53 40.png  used on input line 203.
-(pdftex.def)             Requested size: 455.24408pt x 163.07272pt.
+(pdftex.def)             Requested size: 455.24408pt x 101.95943pt.
 <img/5komp/2020-06-21 09 54 29.png, id=176, 1539.7525pt x 312.16624pt>
 File: img/5komp/2020-06-21 09 54 29.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 54 29.png>
@@ -1106,11 +1106,11 @@ File: img/5komp/2020-06-21 10 11 43.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 11 43.png>
 Package pdftex.def Info: img/5komp/2020-06-21 10 11 43.png  used on input line 208.
 (pdftex.def)             Requested size: 455.24408pt x 58.47636pt.
-<img/5komp/2020-06-21 10 06 40.png, id=181, 1476.51625pt x 536.0025pt>
+<img/5komp/2020-06-21 10 06 40.png, id=181, 1107.38719pt x 240.9pt>
 File: img/5komp/2020-06-21 10 06 40.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 06 40.png>
 Package pdftex.def Info: img/5komp/2020-06-21 10 06 40.png  used on input line 209.
-(pdftex.def)             Requested size: 455.24408pt x 165.2594pt.
+(pdftex.def)             Requested size: 455.24408pt x 99.03061pt.
 <img/5komp/2020-06-21 10 08 30.png, id=182, 1552.80125pt x 324.21124pt>
 File: img/5komp/2020-06-21 10 08 30.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 08 30.png>
@@ -1126,85 +1126,80 @@ File: img/5komp/2020-06-21 10 08 56.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 08 56.png>
 Package pdftex.def Info: img/5komp/2020-06-21 10 08 56.png  used on input line 212.
 (pdftex.def)             Requested size: 455.24408pt x 72.58238pt.
-<img/5komp/2020-06-21 10 09 13.png, id=185, 1551.7975pt x 252.945pt>
-File: img/5komp/2020-06-21 10 09 13.png Graphic file (type png)
-<use img/5komp/2020-06-21 10 09 13.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 09 13.png  used on input line 213.
-(pdftex.def)             Requested size: 455.24408pt x 74.20514pt.
-<img/5komp/2020-06-21 10 09 31.png, id=186, 1577.895pt x 564.1075pt>
+<img/5komp/2020-06-21 10 09 31.png, id=185, 1577.895pt x 564.1075pt>
 File: img/5komp/2020-06-21 10 09 31.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 09 31.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 09 31.png  used on input line 214.
+Package pdftex.def Info: img/5komp/2020-06-21 10 09 31.png  used on input line 213.
 (pdftex.def)             Requested size: 455.24408pt x 162.75204pt.
-<img/5komp/2020-06-21 10 34 53.png, id=187, 1558.82375pt x 351.3125pt>
+<img/5komp/2020-06-21 10 34 53.png, id=186, 1558.82375pt x 351.3125pt>
 File: img/5komp/2020-06-21 10 34 53.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 34 53.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 34 53.png  used on input line 215.
+Package pdftex.def Info: img/5komp/2020-06-21 10 34 53.png  used on input line 214.
 (pdftex.def)             Requested size: 455.24408pt x 102.59633pt.
-<img/5komp/2020-06-21 10 01 16.png, id=188, 1529.715pt x 240.9pt>
+<img/5komp/2020-06-21 10 01 16.png, id=187, 1529.715pt x 240.9pt>
 File: img/5komp/2020-06-21 10 01 16.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 01 16.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 01 16.png  used on input line 216.
+Package pdftex.def Info: img/5komp/2020-06-21 10 01 16.png  used on input line 215.
 (pdftex.def)             Requested size: 455.24408pt x 71.68976pt.
-<img/5komp/2020-06-21 10 02 36.png, id=189, 1529.715pt x 625.33624pt>
+<img/5komp/2020-06-21 10 02 36.png, id=188, 1529.715pt x 625.33624pt>
 File: img/5komp/2020-06-21 10 02 36.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 02 36.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 02 36.png  used on input line 217.
+Package pdftex.def Info: img/5komp/2020-06-21 10 02 36.png  used on input line 216.
 (pdftex.def)             Requested size: 455.24408pt x 186.0947pt.
-<img/5komp/2020-06-21 10 02 43.png, id=190, 1486.55376pt x 554.07pt>
+<img/5komp/2020-06-21 10 02 43.png, id=189, 1486.55376pt x 554.07pt>
 File: img/5komp/2020-06-21 10 02 43.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 02 43.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 02 43.png  used on input line 218.
+Package pdftex.def Info: img/5komp/2020-06-21 10 02 43.png  used on input line 217.
 (pdftex.def)             Requested size: 455.24408pt x 169.68013pt.
-<img/5komp/2020-06-21 10 02 54.png, id=191, 1523.6925pt x 257.96375pt>
+<img/5komp/2020-06-21 10 02 54.png, id=190, 1523.6925pt x 257.96375pt>
 File: img/5komp/2020-06-21 10 02 54.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 02 54.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 02 54.png  used on input line 219.
+Package pdftex.def Info: img/5komp/2020-06-21 10 02 54.png  used on input line 218.
 (pdftex.def)             Requested size: 455.24408pt x 77.07088pt.
-<img/5komp/2020-06-21 10 03 04.png, id=192, 1539.7525pt x 417.56pt>
+<img/5komp/2020-06-21 10 03 04.png, id=191, 1539.7525pt x 417.56pt>
 File: img/5komp/2020-06-21 10 03 04.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 03 04.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 03 04.png  used on input line 220.
+Package pdftex.def Info: img/5komp/2020-06-21 10 03 04.png  used on input line 219.
 (pdftex.def)             Requested size: 455.24408pt x 123.4531pt.
-<img/5komp/2020-06-21 10 03 28.png, id=193, 1565.85pt x 496.85625pt>
+<img/5komp/2020-06-21 10 03 28.png, id=192, 1565.85pt x 496.85625pt>
 File: img/5komp/2020-06-21 10 03 28.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 03 28.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 03 28.png  used on input line 221.
+Package pdftex.def Info: img/5komp/2020-06-21 10 03 28.png  used on input line 220.
 (pdftex.def)             Requested size: 455.24408pt x 144.44852pt.
-<img/5komp/2020-06-21 10 03 51.png, id=194, 1465.475pt x 523.9575pt>
+<img/5komp/2020-06-21 10 03 51.png, id=193, 1465.475pt x 523.9575pt>
 File: img/5komp/2020-06-21 10 03 51.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 03 51.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 03 51.png  used on input line 222.
+Package pdftex.def Info: img/5komp/2020-06-21 10 03 51.png  used on input line 221.
 (pdftex.def)             Requested size: 455.24408pt x 162.76093pt.
-<img/5komp/2020-06-21 10 10 15.png, id=195, 1563.8425pt x 467.7475pt>
+<img/5komp/2020-06-21 10 10 15.png, id=194, 1563.8425pt x 467.7475pt>
 File: img/5komp/2020-06-21 10 10 15.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 10 15.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 10 15.png  used on input line 223.
+Package pdftex.def Info: img/5komp/2020-06-21 10 10 15.png  used on input line 222.
 (pdftex.def)             Requested size: 455.24408pt x 136.1643pt.
- [12 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 48 27.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 47 48.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 49 28.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 49 36.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 13 21 23.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 00.png (PNG copy)>] [13 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 13.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 21.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 29.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 53 40.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 54 29.png (PNG copy)>] [14 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 55 03.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 55 15.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 56 10.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 11 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 06 40.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 08 30.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 08 48.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 08 56.png (PNG copy)>] [15 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 09 13.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 09 31.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 34 53.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 01 16.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 02 36.png (PNG copy)>] [16 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 02 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 02 54.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 03 04.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 03 28.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
- [17 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 03 51.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 10 15.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 226.
- (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 226.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 226.
+ [12 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 48 27.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 47 48.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 49 28.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 11 49 36.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/4four/2020-06-21 13 21 23.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 09 52 00.png (PNG copy)>] [13 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 09 52 13.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 09 52 21.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 09 52 29.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 09 53 40.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 09 54 29.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 09 55 03.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 09 55 15.png (PNG copy)>] [14 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 09 56 10.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 11 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 06 40.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 08 30.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 08 48.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 08 56.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 09 31.png (PNG copy)>] [15 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 34 53.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 01 16.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 02 36.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 02 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 02 54.png (PNG copy)>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 225.
+ [16 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 03 04.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 03 28.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 03 51.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/img/5komp/2020-06-21 10 10 15.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
+ (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
 Package rerunfilecheck Info: File `prace.out' has not changed.
 (rerunfilecheck)             Checksum: C49AF198F49984E586F94A2A6AD7C814;802.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 226.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 17273 strings out of 480471
- 260561 string characters out of 5896424
+ 17266 strings out of 480471
+ 260452 string characters out of 5896424
  503312 words of memory out of 5000000
- 32888 multiletter control sequences out of 15000+600000
+ 32883 multiletter control sequences out of 15000+600000
  541648 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,5n,41p,1038b,2341s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,5n,41p,1047b,2341s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/Program Files/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb>
-Output written on d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf (17 pages, 8282854 bytes).
+Output written on "d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf" (16 pages, 8125495 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 500000)
- 643 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 235 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
+ 638 words of extra memory for PDF output out of 10000 (max. 10000000)
 
