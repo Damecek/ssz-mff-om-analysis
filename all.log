@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.20)  21 JUN 2020 19:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.20)  22 JUN 2020 11:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/all.tex
-(d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/all.tex
+**"d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/all.tex"
+(d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/all.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-06-18> (d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -312,7 +312,7 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 File: l3backend-pdfmode.def 2020-06-18 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count197
 \l__pdf_internal_box=\box47
-) (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/all.aux)
+) (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/all.aux)
 \openout1 = `all.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -407,13 +407,13 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 14.
 LaTeX Info: Redefining \pageref on input line 14.
 LaTeX Info: Redefining \nameref on input line 14.
- (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/all.out) (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/all.out)
+ (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/all.out) (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/all.out)
 \@outlinefile=\write4
 \openout4 = `all.out'.
 
 
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=7, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf>
@@ -421,17 +421,17 @@ Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf  used on input line 16
 (pdftex.def)             Requested size: 597.551pt x 845.07518pt.
 
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf  used on input line 16.
 (pdftex.def)             Requested size: 597.551pt x 845.07518pt.
 
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=10, page=1, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 1>
@@ -456,9 +456,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 1>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page1 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
- [2 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+ [2 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=22, page=2, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 2>
@@ -472,9 +472,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 2>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page2 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[3 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[3 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=27, page=3, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 3>
@@ -488,9 +488,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 3>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page3 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[4 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[4 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=32, page=4, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 4>
@@ -504,9 +504,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 4>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page4 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[5 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[5 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=37, page=5, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 5>
@@ -520,9 +520,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 5>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page5 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[6 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[6 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=42, page=6, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 6>
@@ -536,9 +536,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 6>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page6 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[7 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[7 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=48, page=7, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 7>
@@ -552,9 +552,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 7>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page7 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[8 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[8 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=53, page=8, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 8>
@@ -568,9 +568,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 8>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page8 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[9 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[9 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=58, page=9, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 9>
@@ -584,9 +584,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 9>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page9 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[10 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[10 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=63, page=10, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 10>
@@ -600,9 +600,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 10>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page10 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[11 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[11 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=68, page=11, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 11>
@@ -616,9 +616,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 11>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page11 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[12 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[12 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=73, page=12, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 12>
@@ -632,9 +632,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 12>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page12 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[13 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[13 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=79, page=13, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 13>
@@ -648,9 +648,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 13>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page13 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[14 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[14 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=84, page=14, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 14>
@@ -664,9 +664,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 14>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page14 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[15 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[15 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=89, page=15, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 15>
@@ -680,9 +680,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 15>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page15 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[16 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[16 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=94, page=16, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 16>
@@ -696,9 +696,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 16>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page16 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[17 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[17 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=99, page=17, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 17>
@@ -712,9 +712,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 17>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page17 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[18 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[18 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=104, page=18, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 18>
@@ -728,9 +728,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 18>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page18 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[19 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[19 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=110, page=19, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 19>
@@ -744,9 +744,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 19>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page19 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[20 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[20 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=115, page=20, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 20>
@@ -760,9 +760,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 20>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page20 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[21 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[21 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=120, page=21, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 21>
@@ -776,9 +776,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 21>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page21 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[22 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[22 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=125, page=22, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 22>
@@ -792,9 +792,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 22>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page22 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[23 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[23 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=130, page=23, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 23>
@@ -808,9 +808,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 23>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page23 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[24 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[24 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=135, page=24, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 24>
@@ -824,9 +824,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 24>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page24 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[25 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[25 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=141, page=25, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 25>
@@ -840,9 +840,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 25>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page25 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[26 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[26 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=146, page=26, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 26>
@@ -856,9 +856,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 26>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page26 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[27 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[27 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=151, page=27, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 27>
@@ -872,9 +872,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 27>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page27 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[28 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[28 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=156, page=28, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 28>
@@ -888,9 +888,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 28>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page28 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[29 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[29 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=161, page=29, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 29>
@@ -904,9 +904,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 29>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page29 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[30 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[30 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=166, page=30, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 30>
@@ -920,9 +920,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 30>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page30 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[31 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[31 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=172, page=31, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 31>
@@ -936,9 +936,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 31>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page31 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[32 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[32 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=177, page=32, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 32>
@@ -952,9 +952,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 32>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page32 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[33 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[33 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=183, page=33, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 33>
@@ -968,9 +968,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 33>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page33 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[34 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[34 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=188, page=34, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 34>
@@ -984,9 +984,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 34>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page34 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[35 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[35 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=193, page=35, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 35>
@@ -1000,9 +1000,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 35>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page35 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[36 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[36 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=198, page=36, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 36>
@@ -1016,9 +1016,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 36>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page36 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[37 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[37 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=204, page=37, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 37>
@@ -1032,9 +1032,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 37>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page37 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[38 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[38 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=209, page=38, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 38>
@@ -1048,9 +1048,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 38>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page38 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[39 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[39 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=214, page=39, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 39>
@@ -1064,9 +1064,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 39>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page39 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[40 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[40 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=219, page=40, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 40>
@@ -1080,9 +1080,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 40>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page40 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[41 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[41 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=224, page=41, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 41>
@@ -1096,9 +1096,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 41>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page41 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[42 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[42 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=229, page=42, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 42>
@@ -1112,9 +1112,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 42>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page42 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[43 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[43 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=235, page=43, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 43>
@@ -1128,9 +1128,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 43>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page43 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[44 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[44 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=240, page=44, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 44>
@@ -1144,9 +1144,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 44>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page44 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[45 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[45 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=245, page=45, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 45>
@@ -1160,9 +1160,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 45>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page45 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[46 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[46 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=250, page=46, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 46>
@@ -1176,9 +1176,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 46>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page46 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[47 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[47 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=255, page=47, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 47>
@@ -1192,9 +1192,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 47>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page47 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[48 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[48 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=260, page=48, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 48>
@@ -1208,9 +1208,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 48>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page48 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[49 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[49 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=266, page=49, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 49>
@@ -1224,9 +1224,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 49>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page49 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[50 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[50 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=271, page=50, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 50>
@@ -1240,9 +1240,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 50>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page50 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[51 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[51 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=276, page=51, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 51>
@@ -1256,9 +1256,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 51>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page51 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[52 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[52 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=281, page=52, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 52>
@@ -1272,9 +1272,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 52>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page52 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[53 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[53 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=286, page=53, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 53>
@@ -1288,9 +1288,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 53>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page53 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[54 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[54 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=291, page=54, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 54>
@@ -1304,9 +1304,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 54>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page54 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[55 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[55 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=297, page=55, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 55>
@@ -1320,9 +1320,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 55>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page55 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[56 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[56 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=302, page=56, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 56>
@@ -1336,9 +1336,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 56>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page56 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[57 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[57 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=307, page=57, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 57>
@@ -1352,9 +1352,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 57>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page57 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[58 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[58 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=312, page=58, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 58>
@@ -1368,9 +1368,9 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 58>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page58 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[59 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[59 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <1-2Okruhy/statniceOM12okruhy.pdf, id=317, page=59, 597.55246pt x 845.07724pt>
 File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 59>
@@ -1384,7 +1384,7 @@ File: 1-2Okruhy/statniceOM12okruhy.pdf Graphic file (type pdf)
 <use 1-2Okruhy/statniceOM12okruhy.pdf, page 59>
 Package pdftex.def Info: 1-2Okruhy/statniceOM12okruhy.pdf , page59 used on input line 16.
 (pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
-[60 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/1-2Okruhy/statniceOM12okruhy.pdf>]
+[60 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/1-2Okruhy/statniceOM12okruhy.pdf>]
 <3cOkruh/prace.pdf, id=322, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf>
@@ -1415,7 +1415,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 1>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page1 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [61 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [61 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=349, page=2, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 2>
@@ -1429,7 +1429,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 2>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page2 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [62 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [62 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=364, page=3, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 3>
@@ -1443,7 +1443,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 3>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page3 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [63 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [63 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=377, page=4, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 4>
@@ -1457,7 +1457,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 4>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page4 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [64 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [64 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=390, page=5, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 5>
@@ -1471,7 +1471,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 5>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page5 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [65 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [65 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=401, page=6, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 6>
@@ -1485,7 +1485,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 6>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page6 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [66 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [66 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=414, page=7, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 7>
@@ -1499,7 +1499,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 7>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page7 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [67 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [67 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=430, page=8, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 8>
@@ -1513,7 +1513,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 8>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page8 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [68 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [68 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=445, page=9, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 9>
@@ -1527,7 +1527,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 9>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page9 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [69 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [69 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=459, page=10, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 10>
@@ -1541,7 +1541,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 10>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page10 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [70 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [70 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=473, page=11, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 11>
@@ -1555,7 +1555,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 11>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page11 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [71 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [71 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=484, page=12, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 12>
@@ -1569,7 +1569,7 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 12>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page12 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [72 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [72 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 <3cOkruh/prace.pdf, id=495, page=13, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 13>
@@ -1583,8 +1583,8 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 13>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page13 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [73 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
-<3cOkruh/prace.pdf, id=506, page=14, 597.50829pt x 845.0471pt>
+ [73 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
+<3cOkruh/prace.pdf, id=508, page=14, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 14>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page14 used on input line 17.
@@ -1597,8 +1597,8 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 14>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page14 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [74 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
-<3cOkruh/prace.pdf, id=518, page=15, 597.50829pt x 845.0471pt>
+ [74 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
+<3cOkruh/prace.pdf, id=520, page=15, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 15>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page15 used on input line 17.
@@ -1611,8 +1611,8 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 15>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page15 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [75 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
-<3cOkruh/prace.pdf, id=529, page=16, 597.50829pt x 845.0471pt>
+ [75 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
+<3cOkruh/prace.pdf, id=530, page=16, 597.50829pt x 845.0471pt>
 File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 16>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page16 used on input line 17.
@@ -1625,24 +1625,10 @@ File: 3cOkruh/prace.pdf Graphic file (type pdf)
 <use 3cOkruh/prace.pdf, page 16>
 Package pdftex.def Info: 3cOkruh/prace.pdf , page16 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [76 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
-<3cOkruh/prace.pdf, id=539, page=17, 597.50829pt x 845.0471pt>
-File: 3cOkruh/prace.pdf Graphic file (type pdf)
-<use 3cOkruh/prace.pdf, page 17>
-Package pdftex.def Info: 3cOkruh/prace.pdf , page17 used on input line 17.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: 3cOkruh/prace.pdf Graphic file (type pdf)
-<use 3cOkruh/prace.pdf, page 17>
-Package pdftex.def Info: 3cOkruh/prace.pdf , page17 used on input line 17.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: 3cOkruh/prace.pdf Graphic file (type pdf)
-<use 3cOkruh/prace.pdf, page 17>
-Package pdftex.def Info: 3cOkruh/prace.pdf , page17 used on input line 17.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [77 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf>]
+ [76 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/3cOkruh/prace.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 18.
- (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/all.aux)
+ (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/all.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 18.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 18.
 Package rerunfilecheck Info: File `all.out' has not changed.
@@ -1650,18 +1636,18 @@ Package rerunfilecheck Info: File `all.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 18.
  ) 
 Here is how much of TeX's memory you used:
- 14679 strings out of 480471
- 218052 string characters out of 5896424
+ 14675 strings out of 480471
+ 218032 string characters out of 5896424
  455328 words of memory out of 5000000
- 30427 multiletter control sequences out of 15000+600000
+ 30424 multiletter control sequences out of 15000+600000
  535635 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,18n,46p,548b,2341s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,18n,46p,557b,2341s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/Program Files/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb>
-Output written on d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/all.pdf (77 pages, 16185276 bytes).
+Output written on "d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza - Copy/all.pdf" (76 pages, 15797325 bytes).
 PDF statistics:
- 577 PDF objects out of 1000 (max. 8388607)
- 285 compressed objects within 3 object streams
- 78 named destinations out of 1000 (max. 500000)
- 423 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 568 PDF objects out of 1000 (max. 8388607)
+ 282 compressed objects within 3 object streams
+ 77 named destinations out of 1000 (max. 500000)
+ 418 words of extra memory for PDF output out of 10000 (max. 10000000)
 
