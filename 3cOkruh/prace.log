@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.20)  22 JUN 2020 10:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.20)  22 JUN 2020 10:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1040,186 +1040,171 @@ File: img/4four/2020-06-21 11 47 48.png Graphic file (type png)
 <use img/4four/2020-06-21 11 47 48.png>
 Package pdftex.def Info: img/4four/2020-06-21 11 47 48.png  used on input line 191.
 (pdftex.def)             Requested size: 455.24408pt x 94.65001pt.
-<img/4four/2020-06-21 11 49 05.png, id=160, 1781.65625pt x 210.7875pt>
-File: img/4four/2020-06-21 11 49 05.png Graphic file (type png)
-<use img/4four/2020-06-21 11 49 05.png>
-Package pdftex.def Info: img/4four/2020-06-21 11 49 05.png  used on input line 192.
-(pdftex.def)             Requested size: 455.24408pt x 53.85785pt.
-<img/4four/2020-06-21 11 45 52.png, id=161, 1751.54375pt x 246.9225pt>
-File: img/4four/2020-06-21 11 45 52.png Graphic file (type png)
-<use img/4four/2020-06-21 11 45 52.png>
-Package pdftex.def Info: img/4four/2020-06-21 11 45 52.png  used on input line 193.
-(pdftex.def)             Requested size: 455.24408pt x 64.17572pt.
-<img/4four/2020-06-21 11 49 12.png, id=162, 1683.28876pt x 281.05pt>
-File: img/4four/2020-06-21 11 49 12.png Graphic file (type png)
-<use img/4four/2020-06-21 11 49 12.png>
-Package pdftex.def Info: img/4four/2020-06-21 11 49 12.png  used on input line 194.
-(pdftex.def)             Requested size: 455.24408pt x 76.00887pt.
-<img/4four/2020-06-21 11 49 28.png, id=163, 1792.6975pt x 278.03876pt>
+<img/4four/2020-06-21 11 49 28.png, id=160, 1792.6975pt x 278.03876pt>
 File: img/4four/2020-06-21 11 49 28.png Graphic file (type png)
 <use img/4four/2020-06-21 11 49 28.png>
-Package pdftex.def Info: img/4four/2020-06-21 11 49 28.png  used on input line 195.
+Package pdftex.def Info: img/4four/2020-06-21 11 49 28.png  used on input line 192.
 (pdftex.def)             Requested size: 455.24408pt x 70.60408pt.
-<img/4four/2020-06-21 11 49 36.png, id=164, 1770.615pt x 398.48875pt>
+<img/4four/2020-06-21 11 49 36.png, id=161, 1770.615pt x 398.48875pt>
 File: img/4four/2020-06-21 11 49 36.png Graphic file (type png)
 <use img/4four/2020-06-21 11 49 36.png>
-Package pdftex.def Info: img/4four/2020-06-21 11 49 36.png  used on input line 196.
+Package pdftex.def Info: img/4four/2020-06-21 11 49 36.png  used on input line 193.
 (pdftex.def)             Requested size: 455.24408pt x 102.45543pt.
-<img/4four/2020-06-21 13 21 23.png, id=165, 1777.64125pt x 187.70125pt>
+<img/4four/2020-06-21 13 21 23.png, id=162, 1777.64125pt x 187.70125pt>
 File: img/4four/2020-06-21 13 21 23.png Graphic file (type png)
 <use img/4four/2020-06-21 13 21 23.png>
-Package pdftex.def Info: img/4four/2020-06-21 13 21 23.png  used on input line 197.
+Package pdftex.def Info: img/4four/2020-06-21 13 21 23.png  used on input line 194.
 (pdftex.def)             Requested size: 455.24408pt x 48.06796pt.
  [10 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/Image 013.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/Image 014.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/Image 015.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/2020-06-21 13 02 26.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/3hilp/2020-06-21 13 02 35.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 43 15.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 43 21.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 43 32.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 43 53.png (PNG copy)>] [11 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 44 04.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 50 25.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 44 17.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 46 20.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 46 38.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 47 24.png (PNG copy)>]
-<img/5komp/2020-06-21 09 52 00.png, id=174, 1528.71124pt x 384.43625pt>
+<img/5komp/2020-06-21 09 52 00.png, id=171, 1528.71124pt x 384.43625pt>
 File: img/5komp/2020-06-21 09 52 00.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 52 00.png>
-Package pdftex.def Info: img/5komp/2020-06-21 09 52 00.png  used on input line 202.
+Package pdftex.def Info: img/5komp/2020-06-21 09 52 00.png  used on input line 199.
 (pdftex.def)             Requested size: 455.24408pt x 114.48119pt.
-<img/5komp/2020-06-21 09 52 13.png, id=175, 1538.74875pt x 403.5075pt>
+<img/5komp/2020-06-21 09 52 13.png, id=172, 1538.74875pt x 403.5075pt>
 File: img/5komp/2020-06-21 09 52 13.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 52 13.png>
-Package pdftex.def Info: img/5komp/2020-06-21 09 52 13.png  used on input line 203.
+Package pdftex.def Info: img/5komp/2020-06-21 09 52 13.png  used on input line 200.
 (pdftex.def)             Requested size: 455.24408pt x 119.37846pt.
-<img/5komp/2020-06-21 09 52 21.png, id=176, 1552.80125pt x 616.3025pt>
+<img/5komp/2020-06-21 09 52 21.png, id=173, 1552.80125pt x 616.3025pt>
 File: img/5komp/2020-06-21 09 52 21.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 52 21.png>
-Package pdftex.def Info: img/5komp/2020-06-21 09 52 21.png  used on input line 204.
+Package pdftex.def Info: img/5komp/2020-06-21 09 52 21.png  used on input line 201.
 (pdftex.def)             Requested size: 455.24408pt x 180.67918pt.
-<img/5komp/2020-06-21 09 52 29.png, id=177, 1537.745pt x 216.81pt>
+<img/5komp/2020-06-21 09 52 29.png, id=174, 1537.745pt x 216.81pt>
 File: img/5komp/2020-06-21 09 52 29.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 52 29.png>
-Package pdftex.def Info: img/5komp/2020-06-21 09 52 29.png  used on input line 205.
+Package pdftex.def Info: img/5komp/2020-06-21 09 52 29.png  used on input line 202.
 (pdftex.def)             Requested size: 455.24408pt x 64.18666pt.
-<img/5komp/2020-06-21 09 53 40.png, id=178, 1465.475pt x 524.96124pt>
+<img/5komp/2020-06-21 09 53 40.png, id=175, 1465.475pt x 524.96124pt>
 File: img/5komp/2020-06-21 09 53 40.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 53 40.png>
-Package pdftex.def Info: img/5komp/2020-06-21 09 53 40.png  used on input line 206.
+Package pdftex.def Info: img/5komp/2020-06-21 09 53 40.png  used on input line 203.
 (pdftex.def)             Requested size: 455.24408pt x 163.07272pt.
-<img/5komp/2020-06-21 09 54 29.png, id=179, 1539.7525pt x 312.16624pt>
+<img/5komp/2020-06-21 09 54 29.png, id=176, 1539.7525pt x 312.16624pt>
 File: img/5komp/2020-06-21 09 54 29.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 54 29.png>
-Package pdftex.def Info: img/5komp/2020-06-21 09 54 29.png  used on input line 207.
+Package pdftex.def Info: img/5komp/2020-06-21 09 54 29.png  used on input line 204.
 (pdftex.def)             Requested size: 455.24408pt x 92.29306pt.
-<img/5komp/2020-06-21 09 55 03.png, id=180, 1528.71124pt x 86.3225pt>
+<img/5komp/2020-06-21 09 55 03.png, id=177, 1528.71124pt x 86.3225pt>
 File: img/5komp/2020-06-21 09 55 03.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 55 03.png>
-Package pdftex.def Info: img/5komp/2020-06-21 09 55 03.png  used on input line 208.
+Package pdftex.def Info: img/5komp/2020-06-21 09 55 03.png  used on input line 205.
 (pdftex.def)             Requested size: 455.24408pt x 25.70595pt.
-<img/5komp/2020-06-21 09 55 15.png, id=181, 1531.7225pt x 142.5325pt>
+<img/5komp/2020-06-21 09 55 15.png, id=178, 1531.7225pt x 142.5325pt>
 File: img/5komp/2020-06-21 09 55 15.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 55 15.png>
-Package pdftex.def Info: img/5komp/2020-06-21 09 55 15.png  used on input line 209.
+Package pdftex.def Info: img/5komp/2020-06-21 09 55 15.png  used on input line 206.
 (pdftex.def)             Requested size: 455.24408pt x 42.36206pt.
-<img/5komp/2020-06-21 09 56 10.png, id=182, 1573.88pt x 239.89626pt>
+<img/5komp/2020-06-21 09 56 10.png, id=179, 1573.88pt x 239.89626pt>
 File: img/5komp/2020-06-21 09 56 10.png Graphic file (type png)
 <use img/5komp/2020-06-21 09 56 10.png>
-Package pdftex.def Info: img/5komp/2020-06-21 09 56 10.png  used on input line 210.
+Package pdftex.def Info: img/5komp/2020-06-21 09 56 10.png  used on input line 207.
 (pdftex.def)             Requested size: 455.24408pt x 69.38876pt.
-<img/5komp/2020-06-21 10 11 43.png, id=183, 1562.83875pt x 200.75pt>
+<img/5komp/2020-06-21 10 11 43.png, id=180, 1562.83875pt x 200.75pt>
 File: img/5komp/2020-06-21 10 11 43.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 11 43.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 11 43.png  used on input line 211.
+Package pdftex.def Info: img/5komp/2020-06-21 10 11 43.png  used on input line 208.
 (pdftex.def)             Requested size: 455.24408pt x 58.47636pt.
-<img/5komp/2020-06-21 10 06 40.png, id=184, 1476.51625pt x 536.0025pt>
+<img/5komp/2020-06-21 10 06 40.png, id=181, 1476.51625pt x 536.0025pt>
 File: img/5komp/2020-06-21 10 06 40.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 06 40.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 06 40.png  used on input line 212.
+Package pdftex.def Info: img/5komp/2020-06-21 10 06 40.png  used on input line 209.
 (pdftex.def)             Requested size: 455.24408pt x 165.2594pt.
-<img/5komp/2020-06-21 10 08 30.png, id=185, 1552.80125pt x 324.21124pt>
+<img/5komp/2020-06-21 10 08 30.png, id=182, 1552.80125pt x 324.21124pt>
 File: img/5komp/2020-06-21 10 08 30.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 08 30.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 08 30.png  used on input line 213.
+Package pdftex.def Info: img/5komp/2020-06-21 10 08 30.png  used on input line 210.
 (pdftex.def)             Requested size: 455.24408pt x 95.04784pt.
-<img/5komp/2020-06-21 10 08 48.png, id=186, 1512.65125pt x 196.735pt>
+<img/5komp/2020-06-21 10 08 48.png, id=183, 1512.65125pt x 196.735pt>
 File: img/5komp/2020-06-21 10 08 48.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 08 48.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 08 48.png  used on input line 214.
+Package pdftex.def Info: img/5komp/2020-06-21 10 08 48.png  used on input line 211.
 (pdftex.def)             Requested size: 455.24408pt x 59.20706pt.
-<img/5komp/2020-06-21 10 08 56.png, id=187, 1573.88pt x 250.9375pt>
+<img/5komp/2020-06-21 10 08 56.png, id=184, 1573.88pt x 250.9375pt>
 File: img/5komp/2020-06-21 10 08 56.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 08 56.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 08 56.png  used on input line 215.
+Package pdftex.def Info: img/5komp/2020-06-21 10 08 56.png  used on input line 212.
 (pdftex.def)             Requested size: 455.24408pt x 72.58238pt.
-<img/5komp/2020-06-21 10 09 13.png, id=188, 1551.7975pt x 252.945pt>
+<img/5komp/2020-06-21 10 09 13.png, id=185, 1551.7975pt x 252.945pt>
 File: img/5komp/2020-06-21 10 09 13.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 09 13.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 09 13.png  used on input line 216.
+Package pdftex.def Info: img/5komp/2020-06-21 10 09 13.png  used on input line 213.
 (pdftex.def)             Requested size: 455.24408pt x 74.20514pt.
-<img/5komp/2020-06-21 10 09 31.png, id=189, 1577.895pt x 564.1075pt>
+<img/5komp/2020-06-21 10 09 31.png, id=186, 1577.895pt x 564.1075pt>
 File: img/5komp/2020-06-21 10 09 31.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 09 31.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 09 31.png  used on input line 217.
+Package pdftex.def Info: img/5komp/2020-06-21 10 09 31.png  used on input line 214.
 (pdftex.def)             Requested size: 455.24408pt x 162.75204pt.
-<img/5komp/2020-06-21 10 34 53.png, id=190, 1558.82375pt x 351.3125pt>
+<img/5komp/2020-06-21 10 34 53.png, id=187, 1558.82375pt x 351.3125pt>
 File: img/5komp/2020-06-21 10 34 53.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 34 53.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 34 53.png  used on input line 218.
+Package pdftex.def Info: img/5komp/2020-06-21 10 34 53.png  used on input line 215.
 (pdftex.def)             Requested size: 455.24408pt x 102.59633pt.
-<img/5komp/2020-06-21 10 01 16.png, id=191, 1529.715pt x 240.9pt>
+<img/5komp/2020-06-21 10 01 16.png, id=188, 1529.715pt x 240.9pt>
 File: img/5komp/2020-06-21 10 01 16.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 01 16.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 01 16.png  used on input line 219.
+Package pdftex.def Info: img/5komp/2020-06-21 10 01 16.png  used on input line 216.
 (pdftex.def)             Requested size: 455.24408pt x 71.68976pt.
-<img/5komp/2020-06-21 10 02 36.png, id=192, 1529.715pt x 625.33624pt>
+<img/5komp/2020-06-21 10 02 36.png, id=189, 1529.715pt x 625.33624pt>
 File: img/5komp/2020-06-21 10 02 36.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 02 36.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 02 36.png  used on input line 220.
+Package pdftex.def Info: img/5komp/2020-06-21 10 02 36.png  used on input line 217.
 (pdftex.def)             Requested size: 455.24408pt x 186.0947pt.
-<img/5komp/2020-06-21 10 02 43.png, id=193, 1486.55376pt x 554.07pt>
+<img/5komp/2020-06-21 10 02 43.png, id=190, 1486.55376pt x 554.07pt>
 File: img/5komp/2020-06-21 10 02 43.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 02 43.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 02 43.png  used on input line 221.
+Package pdftex.def Info: img/5komp/2020-06-21 10 02 43.png  used on input line 218.
 (pdftex.def)             Requested size: 455.24408pt x 169.68013pt.
-<img/5komp/2020-06-21 10 02 54.png, id=194, 1523.6925pt x 257.96375pt>
+<img/5komp/2020-06-21 10 02 54.png, id=191, 1523.6925pt x 257.96375pt>
 File: img/5komp/2020-06-21 10 02 54.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 02 54.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 02 54.png  used on input line 222.
+Package pdftex.def Info: img/5komp/2020-06-21 10 02 54.png  used on input line 219.
 (pdftex.def)             Requested size: 455.24408pt x 77.07088pt.
-<img/5komp/2020-06-21 10 03 04.png, id=195, 1539.7525pt x 417.56pt>
+<img/5komp/2020-06-21 10 03 04.png, id=192, 1539.7525pt x 417.56pt>
 File: img/5komp/2020-06-21 10 03 04.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 03 04.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 03 04.png  used on input line 223.
+Package pdftex.def Info: img/5komp/2020-06-21 10 03 04.png  used on input line 220.
 (pdftex.def)             Requested size: 455.24408pt x 123.4531pt.
-<img/5komp/2020-06-21 10 03 28.png, id=196, 1565.85pt x 496.85625pt>
+<img/5komp/2020-06-21 10 03 28.png, id=193, 1565.85pt x 496.85625pt>
 File: img/5komp/2020-06-21 10 03 28.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 03 28.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 03 28.png  used on input line 224.
+Package pdftex.def Info: img/5komp/2020-06-21 10 03 28.png  used on input line 221.
 (pdftex.def)             Requested size: 455.24408pt x 144.44852pt.
-<img/5komp/2020-06-21 10 03 51.png, id=197, 1465.475pt x 523.9575pt>
+<img/5komp/2020-06-21 10 03 51.png, id=194, 1465.475pt x 523.9575pt>
 File: img/5komp/2020-06-21 10 03 51.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 03 51.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 03 51.png  used on input line 225.
+Package pdftex.def Info: img/5komp/2020-06-21 10 03 51.png  used on input line 222.
 (pdftex.def)             Requested size: 455.24408pt x 162.76093pt.
-<img/5komp/2020-06-21 10 10 15.png, id=198, 1563.8425pt x 467.7475pt>
+<img/5komp/2020-06-21 10 10 15.png, id=195, 1563.8425pt x 467.7475pt>
 File: img/5komp/2020-06-21 10 10 15.png Graphic file (type png)
 <use img/5komp/2020-06-21 10 10 15.png>
-Package pdftex.def Info: img/5komp/2020-06-21 10 10 15.png  used on input line 226.
+Package pdftex.def Info: img/5komp/2020-06-21 10 10 15.png  used on input line 223.
 (pdftex.def)             Requested size: 455.24408pt x 136.1643pt.
- [12 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 48 27.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 47 48.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 49 05.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 45 52.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 49 12.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 49 28.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 49 36.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 13 21 23.png (PNG copy)>] [13 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 00.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 13.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 21.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 29.png (PNG copy)>] [14 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 53 40.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 54 29.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 55 03.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 55 15.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 56 10.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 11 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 06 40.png (PNG copy)>] [15 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 08 30.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 08 48.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 08 56.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 09 13.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 09 31.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 34 53.png (PNG copy)>] [16 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 01 16.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 02 36.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 02 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 02 54.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 03 04.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
- [17 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 03 28.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 03 51.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 10 15.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
+ [12 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 48 27.png> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 47 48.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 49 28.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 11 49 36.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/4four/2020-06-21 13 21 23.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 00.png (PNG copy)>] [13 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 13.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 21.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 52 29.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 53 40.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 54 29.png (PNG copy)>] [14 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 55 03.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 55 15.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 09 56 10.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 11 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 06 40.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 08 30.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 08 48.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 08 56.png (PNG copy)>] [15 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 09 13.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 09 31.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 34 53.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 01 16.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 02 36.png (PNG copy)>] [16 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 02 43.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 02 54.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 03 04.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 03 28.png (PNG copy)>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
+ [17 <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 03 51.png (PNG copy)> <d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/img/5komp/2020-06-21 10 10 15.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 226.
  (d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 229.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 229.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 226.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 226.
 Package rerunfilecheck Info: File `prace.out' has not changed.
 (rerunfilecheck)             Checksum: C49AF198F49984E586F94A2A6AD7C814;802.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 229.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 226.
  ) 
 Here is how much of TeX's memory you used:
- 17291 strings out of 480471
- 261188 string characters out of 5896424
+ 17273 strings out of 480471
+ 260561 string characters out of 5896424
  503312 words of memory out of 5000000
- 32903 multiletter control sequences out of 15000+600000
+ 32888 multiletter control sequences out of 15000+600000
  541648 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,5n,41p,1038b,2341s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/Program Files/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb>
-Output written on d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf (17 pages, 8422662 bytes).
+Output written on d:/Users/Adam/Pracovnik/Projects/ssz-3cMatalyza/3cOkruh/prace.pdf (17 pages, 8282854 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
+ 240 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
  23 named destinations out of 1000 (max. 500000)
- 658 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 643 words of extra memory for PDF output out of 10000 (max. 10000000)
 
